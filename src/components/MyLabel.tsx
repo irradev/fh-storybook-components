@@ -54,3 +54,5 @@ export const MyLabel = ({
     </span>
   )
 }
+
+export default MyLabel; //aumenta la compatibilidad
